@@ -71,7 +71,7 @@ p {
   display: block;
   margin: 12px auto;
   padding: 18px 25px;
-  width: auto;
+  width: 85%;
   text-decoration: none;
   background: linear-gradient(
     145deg,
@@ -159,7 +159,7 @@ p {
 
 .form-group input,
 .form-group textarea {
-  width: auto;
+  width: 350px;
   padding: 12px;
   font-size: 16px;
   color: #ffffff;
@@ -250,7 +250,7 @@ button:hover {
   }
 
   .links a {
-    width: 100%;
+    width: 250px;
     font-size: 15px;
     padding: 15px;
   }
@@ -262,6 +262,10 @@ button:hover {
   .contact-form button {
     font-size: 16px;
     padding: 14px;
+  }
+  .form-group input,
+  .form-group textarea {
+    width: 250px;
   }
 }
 
