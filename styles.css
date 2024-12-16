@@ -71,7 +71,7 @@ p {
   display: block;
   margin: 12px auto;
   padding: 18px 25px;
-  width: 85%;
+  width: auto;
   text-decoration: none;
   background: linear-gradient(
     145deg,
@@ -159,7 +159,7 @@ p {
 
 .form-group input,
 .form-group textarea {
-  width: 350px;
+  width: auto;
   padding: 12px;
   font-size: 16px;
   color: #ffffff;
